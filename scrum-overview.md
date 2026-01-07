@@ -1,6 +1,6 @@
 Scrum Roles
 
-1. ARNOLD MAGAI MASHAURI - choose it yourself
+1. ARNOLD MAGAI MASHAURI - Product Owner
 
 2. BEDAH FREDRICK KABEHO - Scrum master
 
