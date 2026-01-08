@@ -4,6 +4,7 @@ Scrum Roles
 
 2. BEDAH FREDRICK KABEHO - Scrum master
 
+3.MERCY JOHN HAULE - Dveloper
 3.MERCY JOHN HAULE - developer 1
 
 4.AMIN SAID ISSA - choose it yourself
