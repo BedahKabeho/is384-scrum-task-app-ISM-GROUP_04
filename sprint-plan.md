@@ -9,4 +9,5 @@
 - The feature satisfies the sprint objectives and performs correctly
 - Essential testing has been carried out with no major issues
 - Relevant documentation has been revised and updated
+-Updates done
 
