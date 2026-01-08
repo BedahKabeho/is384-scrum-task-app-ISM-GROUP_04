@@ -7,13 +7,13 @@ CLOUD BASED TASK MANAGEMENT APP
 
 2. BEDAH FREDRICK KABEHO - Scrum master
 
-3.MERCY JOHN HAULE - developer
+3.MERCY JOHN HAULE - developer 1
 
-4.AMIN SAID ISSA - developer
+4.AMIN SAID ISSA - developer 2
 
-5.ILHAM ABDALLAH LUSINDE - developer
+5.ILHAM ABDALLAH LUSINDE - developer 3
 
-6. HEMED ZAHOR MOHAMED - developer
+6.HEMED ZAHORO MOHAMED - developer 4
 
 DESCRIPTION
-   We are group number 4 from ISM 3
+   We are group number 4 from ISM 3 

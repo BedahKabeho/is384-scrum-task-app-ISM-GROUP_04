@@ -12,15 +12,20 @@ Scrum Roles
 
 6. HEMED ZAHOR MOHAMED -choose it yourself
 
+
 SCRUM EVENTS
 
-SPRINT PLANNING
+SPRINT PLANNING: The team plans which tasks will be done in the sprint.
 
-DAILY SCRUM
+DAILY SCRUM: Short daily meeting to discuss progress.
 
-SPRINT REVIEW
+SPRINT REVIEW: The team reviews completed work.
 
-SPRINT RETROSPECTIVE
+SPRINT RETROSPECTIVE: The team discusses improvements for the next sprint.
 
-SCRUM ARTIFACTS(roduct Backlog, Sprint Backlog, Increment )
 
+
+SCRUM ARTIFACTS
+PRODUCT BACKLOG: List of all required features.
+SPRINT BACKLOG: Tasks selected for the sprint.
+INCREMENT: Work completed during the sprint.
