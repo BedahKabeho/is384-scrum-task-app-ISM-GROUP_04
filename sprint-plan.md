@@ -1,12 +1,12 @@
-1. **Product Backlog** –
-**a)** Create a new task
-**b)** Assign task to user
-**c)** mark task as completed
-**d)** Display task list
-**e)** Send task notifications
+1. Product Backlog – List 5 tasks for the app, e.g., - Add new task - Assign task to user - Mark task complete - Display task list - Notifications 
+2. Sprint Goal – Write a 1–2 sentence goal for the sprint 
 
-**2.** Sprint Goal
--> The goal of this sprint is to plan and document the main features of a cloud-based task management application using Scrum
-   
-**3**. Definition of Done (DoD) – 2–4 criteria, e.g., code pushed, tests passed, 
-documentation updated  
+
+3. Definition of Done (DoD)
+
+    Definition of Done (DoD)
+- The required code has been developed and committed to the GitHub repository
+- The feature satisfies the sprint objectives and performs correctly
+- Essential testing has been carried out with no major issues
+- Relevant documentation has been revised and updated
+
