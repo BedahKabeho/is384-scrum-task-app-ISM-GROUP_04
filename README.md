@@ -16,4 +16,4 @@ CLOUD BASED TASK MANAGEMENT APP
 6.HEMED ZAHORO MOHAMED - developer 4
 
 DESCRIPTION
-   We are group number 4 from ISM 3 
+   We are group number 4 from ISM 3 we are 6 members
