@@ -26,6 +26,6 @@ SPRINT RETROSPECTIVE: The team discusses improvements for the next sprint.
 
 
 SCRUM ARTIFACTS
-PRODUCT BACKLOG: List of all required features.
+PRODUCT BACKLOG: List of all features required.
 SPRINT BACKLOG: Tasks selected for the sprint.
 INCREMENT: Work completed during the sprint.
