@@ -1,17 +1,16 @@
-Scrum Roles
+**Scrum _ Roles**
 
-1. ARNOLD MAGAI MASHAURI - Product Owner
+1. ARNOLD MAGAI MASHAURI -> Product Owner
 
-2. BEDAH FREDRICK KABEHO - Scrum master
+2. BEDAH FREDRICK KABEHO -> Scrum master
 
-3.MERCY JOHN HAULE - developer 1
+3. MERCY JOHN HAULE -> Developer 1
 
-4.AMIN SAID ISSA - developer 2
+4. AMIN SAID ISSA -> Developer 2
 
-5.ILHAM ABDALLAH LUSINDE -developer 3
+5. ILHAM ABDALLAH LUSINDE -> Developer 3
 
-6. HEMED ZAHOR MOHAMED -developer 4
-
+6. HEMED ZAHORO MOHAMED -> Developer 4
 
 SCRUM EVENTS
 
